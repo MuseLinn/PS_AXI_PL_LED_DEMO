@@ -1,6 +1,6 @@
 # PS_AXI_PL_LED_DEMO
 
-展示一个简单的PS控制PL的裸机示例，以了解学习基本的ZYNQ开发流程
+一个简单的PS控制PL的裸机示例，以了解学习基本的ZYNQ开发及固化流程
 
 ## How to use it
 
