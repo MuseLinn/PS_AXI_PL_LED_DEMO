@@ -10,4 +10,4 @@
 git clone https://github.com/MuseLinn/PS_AXI_PL_LED_DEMO.git
 ```
 
-详细参考[飞书文档](https://maxmm46fl3f.feishu.cn/docx/RMXzdiWGJoWnNlxcvq7cYHCCnFb?from=from_copylink)
+详细参考飞书文档（不开放，仅团队内参阅）
