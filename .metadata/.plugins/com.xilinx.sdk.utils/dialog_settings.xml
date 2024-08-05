@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="scw_hwspec" value="D:\My_Proj\ZYNQ\Demo\PS_AXI_PL_LED_Demo"/>
+	<item key="bootgen_files_selection" value="D:\My_Proj\ZYNQ\Demo\PS_AXI_PL_LED_Demo\Boot_Image"/>
+	<item key="soc_flash_files_selection" value="D:\My_Proj\ZYNQ\Demo\PS_AXI_PL_LED_Demo\Boot_Image"/>
+</section>
